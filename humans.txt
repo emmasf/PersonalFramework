@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Shout out to the excellent and generous makers that help this designer code:
+    Shout out to the excellent and generous makers that help this designer write code:
     HTML 5 Boilerplate -- http://html5boilerplate.com/
     Twitter Bootstrap -- http://getbootstrap.com/2.3.2/
     LiveReload -- http://livereload.com/
