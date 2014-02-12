@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Emma Sherwood-Forbes -- Designer and Developer -- @sherwoodandforbes
 
 # THANKS
 
-    <name>
+    Shout out to the excellent and generous makers of my boilerplate:
+    HTML 5 Boilerplate -- http://html5boilerplate.com/
+    Twitter Bootstrap -- http://getbootstrap.com/2.3.2/
+    Normalize.css -- http://necolas.github.io/normalize.css/
+    Modernizr -- http://modernizr.com/
+    JQuery -- http://jquery.com/
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
